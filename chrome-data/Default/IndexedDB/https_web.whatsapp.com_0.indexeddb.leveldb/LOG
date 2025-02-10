@@ -1,0 +1,29 @@
+2025/02/10-07:56:23.033 a807 Reusing MANIFEST /Users/chadpunder/Downloads/Tech Unplugged/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/10-07:56:23.033 a807 Recovering log #645
+2025/02/10-07:56:23.045 a807 Reusing old log /Users/chadpunder/Downloads/Tech Unplugged/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000645.log 
+2025/02/10-07:56:24.104 a807 Level-0 table #658: started
+2025/02/10-07:56:24.116 a807 Level-0 table #658: 513108 bytes OK
+2025/02/10-07:56:24.124 a807 Delete type=0 #645
+2025/02/10-07:56:24.125 a807 Manual compaction at level-0 from '\x00S\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00T\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/10-07:56:24.772 f903 Compacting 1@1 + 9@2 files
+2025/02/10-07:56:24.814 f903 Generated table #659@1: 72983 keys, 2230794 bytes
+2025/02/10-07:56:24.840 f903 Generated table #660@1: 31106 keys, 2193086 bytes
+2025/02/10-07:56:24.854 f903 Generated table #661@1: 2704 keys, 2158456 bytes
+2025/02/10-07:56:24.874 f903 Generated table #662@1: 10959 keys, 2182441 bytes
+2025/02/10-07:56:24.904 f903 Generated table #663@1: 28512 keys, 2255320 bytes
+2025/02/10-07:56:24.920 f903 Generated table #664@1: 7899 keys, 2151654 bytes
+2025/02/10-07:56:24.956 f903 Generated table #665@1: 89943 keys, 2236499 bytes
+2025/02/10-07:56:24.994 f903 Generated table #666@1: 101583 keys, 2251891 bytes
+2025/02/10-07:56:25.011 f903 Generated table #667@1: 41659 keys, 927732 bytes
+2025/02/10-07:56:25.011 f903 Compacted 1@1 + 9@2 files => 18587873 bytes
+2025/02/10-07:56:25.017 f903 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/02/10-07:56:25.017 f903 Delete type=2 #658
+2025/02/10-07:56:25.017 f903 Delete type=2 #649
+2025/02/10-07:56:25.017 f903 Delete type=2 #648
+2025/02/10-07:56:25.017 f903 Delete type=2 #651
+2025/02/10-07:56:25.017 f903 Delete type=2 #650
+2025/02/10-07:56:25.017 f903 Delete type=2 #652
+2025/02/10-07:56:25.017 f903 Delete type=2 #647
+2025/02/10-07:56:25.017 f903 Delete type=2 #653
+2025/02/10-07:56:25.017 f903 Delete type=2 #654
+2025/02/10-07:56:25.017 f903 Delete type=2 #655
