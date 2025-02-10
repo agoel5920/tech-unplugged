@@ -1,0 +1,12 @@
+# Web automation
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Other dependencies that might be needed
+urllib3>=2.0.0

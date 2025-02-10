@@ -1,5 +1,4 @@
 import requests
-import os
 import re
 
 class LLMService:
@@ -35,7 +34,7 @@ class LLMService:
             return "Request failed"
 
 # Example usage:
-llm_service = LLMService("https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyDxn6oN36LeFfyA2BNem3ZMbNwMgwT1jBY")
+# llm_service = LLMService("https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyDxn6oN36LeFfyA2BNem3ZMbNwMgwT1jBY")
 # llm_service = LLMService("https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyDxn6oN36LeFfyA2BNem3ZMbNwMgwT1jBY")
 # articles = [
 #         {
